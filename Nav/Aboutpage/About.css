@@ -1,3 +1,13 @@
 h1 {
     color: pink;
 }
+
+.div {
+    color: rgb(124, 30, 124)
+}
+.anotherclass {
+    color: yellow;
+}
+.nav-list {
+    color: rgb(0, 0, 0);
+}
